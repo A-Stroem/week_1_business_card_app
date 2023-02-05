@@ -11,6 +11,8 @@
 		667F4B2E29905A5A005A3C5B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667F4B2D29905A5A005A3C5B /* ContentView.swift */; };
 		667F4B3029905A5B005A3C5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 667F4B2F29905A5B005A3C5B /* Assets.xcassets */; };
 		667F4B3329905A5B005A3C5B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 667F4B3229905A5B005A3C5B /* Preview Assets.xcassets */; };
+		667F4B3A29905E9E005A3C5B /* CircleLogo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667F4B3929905E9E005A3C5B /* CircleLogo.swift */; };
+		667F4B3C29906471005A3C5B /* QR_Code.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667F4B3B29906471005A3C5B /* QR_Code.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		667F4B2D29905A5A005A3C5B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		667F4B2F29905A5B005A3C5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		667F4B3229905A5B005A3C5B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		667F4B3929905E9E005A3C5B /* CircleLogo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleLogo.swift; sourceTree = "<group>"; };
+		667F4B3B29906471005A3C5B /* QR_Code.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QR_Code.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				667F4B2B29905A5A005A3C5B /* Business_CardApp.swift */,
 				667F4B2D29905A5A005A3C5B /* ContentView.swift */,
+				667F4B3929905E9E005A3C5B /* CircleLogo.swift */,
+				667F4B3B29906471005A3C5B /* QR_Code.swift */,
 				667F4B2F29905A5B005A3C5B /* Assets.xcassets */,
 				667F4B3129905A5B005A3C5B /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				667F4B2E29905A5A005A3C5B /* ContentView.swift in Sources */,
+				667F4B3C29906471005A3C5B /* QR_Code.swift in Sources */,
+				667F4B3A29905E9E005A3C5B /* CircleLogo.swift in Sources */,
 				667F4B2C29905A5A005A3C5B /* Business_CardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
